@@ -1,0 +1,14 @@
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+}
